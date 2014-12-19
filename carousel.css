@@ -11,7 +11,20 @@ body {
 iframe {
     width: 100%;
     height: 90rem;
+    overflow: hidden;
+    border:0;
+}
 
+#gt-referrer {
+    display: none;
+}
+
+#affiliate-logo-on-page{
+    display: none;
+}
+
+#logo-bar {
+    display: none !important;
 }
 
 /* CUSTOMIZE THE NAVBAR
